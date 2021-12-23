@@ -1,2 +1,8 @@
 log.txt
 \dir2
+\dir1
+app.js
+*.png
+*.html
+*.md
+*.txt
